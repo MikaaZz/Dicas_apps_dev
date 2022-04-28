@@ -26,7 +26,7 @@ git fetch <remote>: Baixar as alterações mas nao marcar/integrar direto no HEA
 <br>
 git pull <remote> <branch>: Baixar as alterações e marcar/integrar direto no HEAD
 <br>
-git push <remote> <branch>: Publicar alterações locais remotamente
+git push origin <branch>: Publicar alterações locais remotamente
 <br>
 git branch -dh <remote/branch>: Excluir filial no controle remoto
 <br>
@@ -44,7 +44,7 @@ git add . : Adiciona todas as mudanças
 <br>
 git add . -p <file>: Adiciona mudanças no <file>
 <br>
-git commit -a "": Confirma todas as alterações locais em arquivos rastreados
+git commit -m "": Confirma todas as alterações locais em arquivos rastreados
 <br>
 git commit: Confirma alterações previamente preparadas
 <br>
