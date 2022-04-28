@@ -1,28 +1,28 @@
-# Dicas e dicas em Apps para um Dev iniciante
+# Dicas gerais e dicas em Apps para um Dev iniciante
 
 Algumas dicas, truques e comandos que deixo salvo para que eu possa sempre usar e ter de referencias!
 
 ## Tecnologias:
 
-- [Git]()
+- [Git](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/Git.md)
 
-- [VS Code]()
+- [VS Code](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/VSCode.md)
 
-- [HTML]()
+- [HTML](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/HTML.md)
 
-- [CSS]()
+- [CSS](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/CSS.md)
 
-- [JavaScript]()
+- [JavaScript](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/JavaScript.md)
 
-- [TypeScript]()
+- [TypeScript](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/TypeScript.md)
 
-- [React]()
+- [React](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/React.md)
 
-- [NPM]()
+- [NPM](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/Npm.md)
 
-- [UI]()
+- [UI](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/Ui.md)
 
-- [Road Map studys]()
+- [Road Map studys](https://github.com/MikaaZz/Dicas_apps_dev/blob/master/RoadMap.md)
 
 **Projeto em construção**
 

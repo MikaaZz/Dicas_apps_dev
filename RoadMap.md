@@ -6,3 +6,9 @@ Meu Road Map estudos no mundo Front - End, o caminho a seguir e o que estou estu
 
 - Puro - Tags , semanticas, sintaxe, boas praticas, tags metas
 - BoilerPlate - Entender significado
+
+# CSS
+
+- Css puro
+- Preprocessadores: SASS SCSS LESS
+- Biblioteca Tailwind
